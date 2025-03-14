@@ -8,13 +8,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ashish-lukka/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/ashhiiiish" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:ashishlukka2005@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="email" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -45,8 +45,7 @@
       <h3 align="center">Draft - Blog Application</h3>
       <div align="center">
         <a href="https://draft-blogapp.vercel.app/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="View Live" height="30" width="40" />
-          <p>View Live</p>
+          <img src="https://img.shields.io/badge/View_Live-333333?style=for-the-badge" alt="View Live" />
         </a>
         <p>A modern blogging platform, featuring user authentication, rich text editing, and responsive design.</p>
       </div>
@@ -55,8 +54,7 @@
       <h3 align="center">Lumora</h3>
       <div align="center">
         <a href="https://lumora-web.netlify.app/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="View Live" height="30" width="40" />
-          <p>View Live</p>
+          <img src="https://img.shields.io/badge/View_Live-333333?style=for-the-badge" alt="View Live" />
         </a>
         <p>A secure MERN stack learning platform that streamlines college resources for students.</p>
       </div>
