@@ -9,10 +9,10 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/ashish-lukka/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.instagram.com/ashhiiiish" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="mailto:ashishlukka2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
