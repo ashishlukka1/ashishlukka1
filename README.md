@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello, I'm Ashish Lukka</h1>
+<h1 align="center">Hello, I'm Ashish Lukka</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EAEF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Deep+Learning+Enthusiast;AI+Explorer;Full-Stack+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EAEF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full-Stack+Web+Developer" alt="Typing SVG" />
 </p>
 
 <h3 align="center">A passionate developer from Hyderabad creating impactful digital experiences</h3>
@@ -13,46 +13,12 @@
   <a href="https://www.instagram.com/ashhiiiish" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ashishlukka2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-## 🚀 About Me
-
-I'm a MERN Stack Developer with a passion for building robust web applications. My interests extend to Deep Learning and Artificial Intelligence, where I'm constantly exploring new technologies and methodologies to enhance user experiences and solve complex problems.
-
-- 🔭 I'm currently working on expanding my portfolio with innovative projects
-- 🌱 I'm learning advanced React patterns and AI integration
-- 💬 Ask me about web development, MERN stack, or AI integration in web apps
-- ⚡ Fun fact: I enjoy combining creativity with technical solutions
-
-## 💻 Live Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Draft - Blog Application</h3>
-      <div align="center">
-        <a href="https://draft-blogapp.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Live-2ea44f?style=for-the-badge" alt="View Live" />
-        </a>
-        <p>A modern blogging platform built with the MERN stack, featuring user authentication, rich text editing, and responsive design.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Lumora Web</h3>
-      <div align="center">
-        <a href="https://lumora-web.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Live-2ea44f?style=for-the-badge" alt="View Live" />
-        </a>
-        <p>An elegant web application that showcases advanced UI/UX principles with seamless functionality and modern aesthetics.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -71,22 +37,28 @@ I'm a MERN Stack Developer with a passion for building robust web applications. 
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-</div>
+## Live Projects
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=nord&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet" alt="Profile Views" />
-  <p>Thanks for visiting my profile! Feel free to check out my repositories and get in touch.</p>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Draft - Blog Application</h3>
+      <div align="center">
+        <a href="https://draft-blogapp.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Live-2ea44f?style=for-the-badge" alt="View Live" />
+        </a>
+        <p>A modern blogging platform, featuring user authentication, rich text editing, and responsive design.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Lumora</h3>
+      <div align="center">
+        <a href="https://lumora-web.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Live-2ea44f?style=for-the-badge" alt="View Live" />
+        </a>
+        <p>A secure MERN stack learning platform that streamlines college resources for students.</p>
+      </div>
+    </td>
+  </tr>
+</table>
