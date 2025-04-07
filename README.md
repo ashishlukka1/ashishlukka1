@@ -24,28 +24,55 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,html,css,mongodb,mysql,github,git" alt="Tech Stack" />
 </div>
 
-
 ## Live Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Draft - Blog Application</h3>
-      <div align="center">
-        <a href="https://draft-blogapp.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Live-333333?style=for-the-badge" alt="View Live" />
-        </a>
-        <p>A modern blogging platform, featuring user authentication, rich text editing, and responsive design.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Lumora</h3>
-      <div align="center">
-        <a href="https://lumora-web.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Live-333333?style=for-the-badge" alt="View Live" />
-        </a>
-        <p>A secure MERN stack learning platform that streamlines college resources for students.</p>
-      </div>
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3 align="center">Draft - Blog Application</h3>
+        <p align="center">
+          <a href="https://draft-blogapp.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/View_Live-333333?style=for-the-badge" alt="View Live" />
+          </a>
+        </p>
+      </td>
+      <td>
+        <h3 align="center">Lumora</h3>
+        <p align="center">
+          <a href="https://lumora-web.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/badge/View_Live-333333?style=for-the-badge" alt="View Live" />
+          </a>
+        </p>
+      </td>
+      <td>
+        <h3 align="center">Seminar Booking System</h3>
+        <p align="center">
+          <a href="https://stalwart-cat-1329d9.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/badge/View_Live-333333?style=for-the-badge" alt="View Live" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="1">
+        <h3 align="center">Digital Academic Library</h3>
+        <p align="center">
+          <a href="https://digital-academic-library.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/View_Live-333333?style=for-the-badge" alt="View Live" />
+          </a>
+        </p>
+      </td>
+      <td colspan="1">
+        <h3 align="center">Certificate Generator</h3>
+        <p align="center">
+          <a href="https://ashish-certificate-generator.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/View_Live-333333?style=for-the-badge" alt="View Live" />
+          </a>
+        </p>
+      </td>
+      <td></td>
+    </tr>
+  </table>
+</div>
