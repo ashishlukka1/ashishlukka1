@@ -3,6 +3,6 @@
 
 <p align="left">
   <a href="https://linktr.ee/ashishlukka" style="text-decoration: none;">
-    Linktree <img src="https://img.icons8.com/material-outlined/16/000000/external-link.png" alt="external link" style="vertical-align: middle;">
+    Linktree
   </a>
 </p>
